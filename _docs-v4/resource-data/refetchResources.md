@@ -9,4 +9,4 @@ Causes the resource data to be fetched and freshly rerendered.
 .refetchResources()
 </div>
 
-If the `resources` option [was specified as an function](resources-function), it will be recalled. If the `resources` option [was specified as a JSON feed](resources-json-feed) it will be requested again.
+If the `resources` option [was specified as a function](resources-function), it will be recalled. If the `resources` option [was specified as a JSON feed](resources-json-feed) it will be requested again.
